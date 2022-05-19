@@ -1,0 +1,602 @@
+{
+	"tent" : {
+		"minFee" : 10000,
+		"feeLevels" : [
+			{
+				"id" : 1,
+				"name" : "Urgent",
+				"value" : 20000
+			},
+			{
+				"id" : 2,
+				"name" : "Priority",
+				"value" : 15000
+			},
+			{
+				"id" : 3,
+				"name" : "Normal",
+				"value" : 10000
+			},
+			{
+				"id" : 4,
+				"name" : "Economy",
+				"value" : 5000
+			},
+			{
+				"id" : 5,
+				"name" : "Super Economy",
+				"value" : 2000
+			}
+		]
+	},
+	"xsg" : {
+		"minFee" : 10000,
+		"feeLevels" : [
+			{
+				"id" : 1,
+				"name" : "Urgent",
+				"value" : 20000
+			},
+			{
+				"id" : 2,
+				"name" : "Priority",
+				"value" : 15000
+			},
+			{
+				"id" : 3,
+				"name" : "Normal",
+				"value" : 10000
+			},
+			{
+				"id" : 4,
+				"name" : "Economy",
+				"value" : 5000
+			},
+			{
+				"id" : 5,
+				"name" : "Super Economy",
+				"value" : 2000
+			}
+		]
+	},
+	"btc" : {
+		"minFee" : 15000,
+		"feeLevels" : [
+			{
+				"id" : 1,
+				"name" : "Urgent",
+				"value" : 200000
+			},
+			{
+				"id" : 2,
+				"name" : "Priority",
+				"value" : 150000
+			},
+			{
+				"id" : 3,
+				"name" : "Normal",
+				"value" : 100000
+			},
+			{
+				"id" : 4,
+				"name" : "Economy",
+				"value" : 50000
+			},
+			{
+				"id" : 5,
+				"name" : "Super Economy",
+				"value" : 20000
+			}
+		]
+	},
+	"bch" : {
+		"minFee" : 5000,
+		"feeLevels" : [
+			{
+				"id" : 1,
+				"name" : "Urgent",
+				"value" : 100000
+			},
+			{
+				"id" : 2,
+				"name" : "Priority",
+				"value" : 75000
+			},
+			{
+				"id" : 3,
+				"name" : "Normal",
+				"value" : 50000
+			},
+			{
+				"id" : 4,
+				"name" : "Economy",
+				"value" : 25000
+			},
+			{
+				"id" : 5,
+				"name" : "Super Economy",
+				"value" : 10000
+			}
+		]
+	},
+	"bsv" : {
+		"minFee" : 5000,
+		"feeLevels" : [
+			{
+				"id" : 1,
+				"name" : "Urgent",
+				"value" : 100000
+			},
+			{
+				"id" : 2,
+				"name" : "Priority",
+				"value" : 75000
+			},
+			{
+				"id" : 3,
+				"name" : "Normal",
+				"value" : 50000
+			},
+			{
+				"id" : 4,
+				"name" : "Economy",
+				"value" : 25000
+			},
+			{
+				"id" : 5,
+				"name" : "Super Economy",
+				"value" : 10000
+			}
+		]
+	},
+	"ltc" : {
+		"minFee" : 200000,
+		"feeLevels" : [
+			{
+				"id" : 1,
+				"name" : "Urgent",
+				"value" : 70000
+			},
+			{
+				"id" : 2,
+				"name" : "Priority",
+				"value" : 50000
+			},
+			{
+				"id" : 3,
+				"name" : "Normal",
+				"value" : 35000
+			},
+			{
+				"id" : 4,
+				"name" : "Economy",
+				"value" : 20000
+			},
+			{
+				"id" : 5,
+				"name" : "Super Economy",
+				"value" : 10000
+			}
+		]
+	},
+	"dash" : {
+		"minFee" : 13333,
+		"feeLevels" : [
+			{
+				"id" : 1,
+				"name" : "Urgent",
+				"value" : 200000
+			},
+			{
+				"id" : 2,
+				"name" : "Priority",
+				"value" : 150000
+			},
+			{
+				"id" : 3,
+				"name" : "Normal",
+				"value" : 100000
+			},
+			{
+				"id" : 4,
+				"name" : "Economy",
+				"value" : 50000
+			},
+			{
+				"id" : 5,
+				"name" : "Super Economy",
+				"value" : 20000
+			}
+		]
+	},
+	"zec" : {
+		"minFee" : 10000,
+		"feeLevels" : [
+			{
+				"id" : 1,
+				"name" : "Urgent",
+				"value" : 20000
+			},
+			{
+				"id" : 2,
+				"name" : "Priority",
+				"value" : 15000
+			},
+			{
+				"id" : 3,
+				"name" : "Normal",
+				"value" : 10000
+			},
+			{
+				"id" : 4,
+				"name" : "Economy",
+				"value" : 5000
+			},
+			{
+				"id" : 5,
+				"name" : "Super Economy",
+				"value" : 2000
+			}
+		]
+	},
+	"dgb" : {
+		"minFee" : 500,
+		"feeLevels" : [
+			{
+				"id" : 1,
+				"name" : "Urgent",
+				"value" : 80000
+			},
+			{
+				"id" : 2,
+				"name" : "Priority",
+				"value" : 50000
+			},
+			{
+				"id" : 3,
+				"name" : "Normal",
+				"value" : 20000
+			},
+			{
+				"id" : 4,
+				"name" : "Economy",
+				"value" : 10000
+			},
+			{
+				"id" : 5,
+				"name" : "Super Economy",
+				"value" : 5000
+			}
+		]
+	},
+	"btcz" : {
+		"minFee" : 10000,
+		"feeLevels" : [
+			{
+				"id" : 1,
+				"name" : "Urgent",
+				"value" : 20000
+			},
+			{
+				"id" : 2,
+				"name" : "Priority",
+				"value" : 15000
+			},
+			{
+				"id" : 3,
+				"name" : "Normal",
+				"value" : 10000
+			},
+			{
+				"id" : 4,
+				"name" : "Economy",
+				"value" : 5000
+			},
+			{
+				"id" : 5,
+				"name" : "Super Economy",
+				"value" : 2000
+			}
+		]
+	},
+	"bitg" : {
+		"minFee" : 10000,
+		"feeLevels" : [
+			{
+				"id" : 1,
+				"name" : "Urgent",
+				"value" : 20000
+			},
+			{
+				"id" : 2,
+				"name" : "Priority",
+				"value" : 15000
+			},
+			{
+				"id" : 3,
+				"name" : "Normal",
+				"value" : 10000
+			},
+			{
+				"id" : 4,
+				"name" : "Economy",
+				"value" : 5000
+			},
+			{
+				"id" : 5,
+				"name" : "Super Economy",
+				"value" : 2000
+			}
+		]
+	},
+	"eth" : {
+		"minFee" : 0,
+		"feeLevels" : [
+			{
+				"id" : 1,
+				"name" : "Urgent",
+				"value" : 0
+			},
+			{
+				"id" : 2,
+				"name" : "Priority",
+				"value" : 0
+			},
+			{
+				"id" : 3,
+				"name" : "Normal",
+				"value" : 0
+			},
+			{
+				"id" : 4,
+				"name" : "Economy",
+				"value" : 0
+			},
+			{
+				"id" : 5,
+				"name" : "Super Economy",
+				"value" : 0
+			}
+		]
+	},
+	"usdt" : {
+		"minFee" : 0,
+		"feeLevels" : [
+			{
+				"id" : 1,
+				"name" : "Urgent",
+				"value" : 0
+			},
+			{
+				"id" : 2,
+				"name" : "Priority",
+				"value" : 0
+			},
+			{
+				"id" : 3,
+				"name" : "Normal",
+				"value" : 0
+			},
+			{
+				"id" : 4,
+				"name" : "Economy",
+				"value" : 0
+			},
+			{
+				"id" : 5,
+				"name" : "Super Economy",
+				"value" : 0
+			}
+		]
+	},
+	"zel" : {
+		"minFee" : 10000,
+		"feeLevels" : [
+			{
+				"id" : 1,
+				"name" : "Urgent",
+				"value" : 20000
+			},
+			{
+				"id" : 2,
+				"name" : "Priority",
+				"value" : 15000
+			},
+			{
+				"id" : 3,
+				"name" : "Normal",
+				"value" : 10000
+			},
+			{
+				"id" : 4,
+				"name" : "Economy",
+				"value" : 5000
+			},
+			{
+				"id" : 5,
+				"name" : "Super Economy",
+				"value" : 2000
+			}
+		]
+	},
+	"flux" : {
+		"minFee" : 10000,
+		"feeLevels" : [
+			{
+				"id" : 1,
+				"name" : "Urgent",
+				"value" : 20000
+			},
+			{
+				"id" : 2,
+				"name" : "Priority",
+				"value" : 15000
+			},
+			{
+				"id" : 3,
+				"name" : "Normal",
+				"value" : 10000
+			},
+			{
+				"id" : 4,
+				"name" : "Economy",
+				"value" : 5000
+			},
+			{
+				"id" : 5,
+				"name" : "Super Economy",
+				"value" : 2000
+			}
+		]
+	},
+	"sum" : {
+		"minFee" : 1000,
+		"feeLevels" : [
+			{
+				"id" : 1,
+				"name" : "Urgent",
+				"value" : 20000
+			},
+			{
+				"id" : 2,
+				"name" : "Priority",
+				"value" : 15000
+			},
+			{
+				"id" : 3,
+				"name" : "Normal",
+				"value" : 70000
+			},
+			{
+				"id" : 4,
+				"name" : "Economy",
+				"value" : 4000
+			},
+			{
+				"id" : 5,
+				"name" : "Super Economy",
+				"value" : 2000
+			}
+		]
+	},
+	"zer" : {
+		"minFee" : 10000,
+		"feeLevels" : [
+			{
+				"id" : 1,
+				"name" : "Urgent",
+				"value" : 20000
+			},
+			{
+				"id" : 2,
+				"name" : "Priority",
+				"value" : 15000
+			},
+			{
+				"id" : 3,
+				"name" : "Normal",
+				"value" : 10000
+			},
+			{
+				"id" : 4,
+				"name" : "Economy",
+				"value" : 5000
+			},
+			{
+				"id" : 5,
+				"name" : "Super Economy",
+				"value" : 2000
+			}
+		]
+	},
+	"pirl" : {
+		"minFee" : 0,
+		"feeLevels" : [
+			{
+				"id" : 1,
+				"name" : "Urgent",
+				"value" : 0
+			},
+			{
+				"id" : 2,
+				"name" : "Priority",
+				"value" : 0
+			},
+			{
+				"id" : 3,
+				"name" : "Normal",
+				"value" : 0
+			},
+			{
+				"id" : 4,
+				"name" : "Economy",
+				"value" : 0
+			},
+			{
+				"id" : 5,
+				"name" : "Super Economy",
+				"value" : 0
+			}
+		]
+	},
+	"zen" : {
+		"minFee" : 10000,
+		"feeLevels" : [
+			{
+				"id" : 1,
+				"name" : "Urgent",
+				"value" : 20000
+			},
+			{
+				"id" : 2,
+				"name" : "Priority",
+				"value" : 15000
+			},
+			{
+				"id" : 3,
+				"name" : "Normal",
+				"value" : 10000
+			},
+			{
+				"id" : 4,
+				"name" : "Economy",
+				"value" : 5000
+			},
+			{
+				"id" : 5,
+				"name" : "Super Economy",
+				"value" : 2000
+			}
+		]
+	},
+	"doge" : {
+		"minFee" : 200000000,
+		"feeLevels" : [
+			{
+				"id" : 1,
+				"name" : "Urgent",
+				"value" : 1000000
+			},
+			{
+				"id" : 2,
+				"name" : "Priority",
+				"value" : 750000
+			},
+			{
+				"id" : 3,
+				"name" : "Normal",
+				"value" : 500000
+			},
+			{
+				"id" : 4,
+				"name" : "Economy",
+				"value" : 250000
+			},
+			{
+				"id" : 5,
+				"name" : "Super Economy",
+				"value" : 100000
+			}
+		]
+	}
+}

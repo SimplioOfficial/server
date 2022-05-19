@@ -1,0 +1,326 @@
+{
+  "ltc": [
+    {
+      "url": "https://ltc1.simplio.io/",
+      "api": "https://ltc1.simplio.io/api",
+      "type": 1,
+      "priority": 1
+    },
+    {
+      "url": "https://ltc1.trezor.io/",
+      "api": "https://ltc1.trezor.io/api",
+      "type": 1,
+      "priority": 3
+    },
+    {
+      "url": "https://blockbook-litecoin.binancechain.io/",
+      "api": "https://blockbook-litecoin.binancechain.io/api",
+      "type": 1,
+      "priority": 2
+    }
+  ],
+  "dash": [
+    {
+      "url": "https://dash1.simplio.io/",
+      "api": "https://dash1.simplio.io/api",
+      "type": 0,
+      "priority": 1
+    },
+    {
+      "url": "https://insight.dash.org/insight",
+      "api": "https://insight.dash.org/api",
+      "type": 0,
+      "priority": 2
+    }
+  ],
+  "zec": [
+    {
+      "url": "https://zec1.simplio.io/",
+      "api": "https://zec1.simplio.io/api",
+      "type": 1,
+      "priority": 1
+    },
+    {
+      "url": "https://zec1.trezor.io/",
+      "api": "https://zec1.trezor.io/api",
+      "type": 1,
+      "priority": 2
+    }
+  ],
+  "dgb": [
+    {
+      "url": "https://dgb1.trezor.io/",
+      "api": "https://dgb1.trezor.io/api",
+      "type": 1,
+      "priority": 2
+    },
+    {
+      "url": "https://dgb1.simplio.io/",
+      "api": "https://dgb1.simplio.io/api",
+      "type": 1,
+      "priority": 1
+    }
+  ],
+  "btcz": [
+    {
+      "url": "https://explorer.btcz.rocks/",
+      "api": "https://explorer.btcz.rocks/api",
+      "type": 0
+    }
+  ],
+  "bitg": [
+    {
+      "url": "https://bitg.polispay.com/",
+      "api": "https://bitg.polispay.com/api",
+      "type": 1
+    }
+  ],
+  "btc": [
+    {
+      "url": "https://btc1.simplio.io/",
+      "api": "https://btc1.simplio.io/api",
+      "type": 1,
+      "priority": 1
+    }
+  ],
+  "tbtc": [
+    {
+      "url": "https://btc1_testnet.simplio.io/",
+      "api": "https://btc1_testnet.simplio.io/api",
+      "type": 1
+    }
+  ],
+  "bsv": [
+    {
+      "url": "https://bchsvexplorer.com/",
+      "api": "https://bchsvexplorer.com/api",
+      "type": 1
+    }
+  ],
+  "bch": [
+    {
+      "url": "https://bch1.simplio.io/",
+      "api": "https://bch1.simplio.io/api",
+      "type": 1,
+      "priority": 1
+    },
+    {
+      "url": "https://bch1.trezor.io/",
+      "api": "https://bch1.trezor.io/api",
+      "type": 1,
+      "priority": 2
+    }
+  ],
+  "zel": [
+    {
+      "url": "https://explorer.zel.cash/",
+      "api": "https://explorer.zel.cash/api",
+      "type": 0
+    }
+  ],
+  "flux": [
+    {
+      "url": "https://explorer.zel.cash/",
+      "api": "https://explorer.zel.cash/api",
+      "type": 0
+    }
+  ],
+  "sum": [
+    {
+      "url": "https://insight.sumcore.org/",
+      "api": "https://insight.sumcore.org/api",
+      "type": 0
+    }
+  ],
+  "zer": [
+    {
+      "url": "https://insight.zerocurrency.io/insight/",
+      "api": "https://insight.zerocurrency.io/insight-api-zero",
+      "type": 0
+    }
+  ],
+  "zen": [
+    {
+      "url": "https://explorer.zensystem.io/",
+      "api": "https://explorer.zensystem.io/api",
+      "type": 0
+    }
+  ],
+  "doge": [
+    {
+      "url": "https://doge1.simplio.io/",
+      "api": "https://doge1.simplio.io/api",
+      "type": 1
+    }
+  ],
+  "eth": [
+    {
+      "url": "https://etherscan.io/",
+      "api": "https://api.etherscan.io/api",
+      "api_key": "9X2EI6JPXQG2WAZXVYWUIT1BS3A5H7YPGM",
+      "api_transaction": "https://api.etherscan.io/api?module=account&action=txlist&address=<address>&offset=20&sort=asc&apikey=9X2EI6JPXQG2WAZXVYWUIT1BS3A5H7YPGM"
+    }
+  ],
+  "ethtoken": [
+    {
+      "url": "https://etherscan.io/",
+      "api": "https://api.etherscan.io/api",
+      "api_key": "9X2EI6JPXQG2WAZXVYWUIT1BS3A5H7YPGM",
+      "api_transaction": "http://api.etherscan.io/api?module=account&action=tokentx&contractaddress=<contractaddress>&address=<address>&offset=20&sort=asc&apikey=9X2EI6JPXQG2WAZXVYWUIT1BS3A5H7YPGM",
+      "api_transaction2": "https://api.etherscan.io/api?module=account&action=tokentx&address=<address>&startblock=<start>&endblock=<end>&sort=asc&apikey=9X2EI6JPXQG2WAZXVYWUIT1BS3A5H7YPGM",
+      "api_balance": "https://api.etherscan.io/api?module=account&action=tokenbalance&contractaddress=<contractaddress>&address=<address>&tag=latest&apikey=9X2EI6JPXQG2WAZXVYWUIT1BS3A5H7YPGM",
+      "abi": "https://api.etherscan.io/api?module=contract&action=getabi&address=<address>&apikey=9X2EI6JPXQG2WAZXVYWUIT1BS3A5H7YPGM"
+    }
+  ],
+  "2": [
+    {
+      "url": "https://etherscan.io/",
+      "api": "https://api.etherscan.io/api",
+      "api_key": "9X2EI6JPXQG2WAZXVYWUIT1BS3A5H7YPGM",
+      "api_transaction": "http://api.etherscan.io/api?module=account&action=tokentx&contractaddress=<contractaddress>&address=<address>&offset=20&sort=asc&apikey=9X2EI6JPXQG2WAZXVYWUIT1BS3A5H7YPGM",
+      "api_transaction2": "https://api.etherscan.io/api?module=account&action=tokentx&address=<address>&startblock=<start>&endblock=<end>&sort=asc&apikey=9X2EI6JPXQG2WAZXVYWUIT1BS3A5H7YPGM",
+      "api_balance": "https://api.etherscan.io/api?module=account&action=tokenbalance&contractaddress=<contractaddress>&address=<address>&tag=latest&apikey=9X2EI6JPXQG2WAZXVYWUIT1BS3A5H7YPGM",
+      "abi": "https://api.etherscan.io/api?module=contract&action=getabi&address=<address>&apikey=9X2EI6JPXQG2WAZXVYWUIT1BS3A5H7YPGM"
+    }
+  ],
+  "etc": [
+    {
+      "url": "https://etcblockexplorer.com/",
+      "api": "https://blockscout.com/etc/mainnet/api",
+      "api_key": "387THBFJA9JMDNSI3NS35E1N3TW8YBBA7H",
+      "api_transaction": "https://blockscout.com/etc/mainnet/api?module=account&action=txlist&address=<address>&offset=20&sort=asc&apikey=387THBFJA9JMDNSI3NS35E1N3TW8YBBA7H"
+    }
+  ],
+  "bnb": [
+    {
+      "url": "https://bscscan.com/",
+      "api": "https://api.bscscan.com/api",
+      "api_key": "387THBFJA9JMDNSI3NS35E1N3TW8YBBA7H",
+      "api_transaction": "https://api.bscscan.com/api?module=account&action=txlist&address=<address>&offset=20&sort=asc&apikey=387THBFJA9JMDNSI3NS35E1N3TW8YBBA7H"
+    }
+  ],
+  "bnbtoken": [
+    {
+      "url": "https://bscscan.com/",
+      "api": "https://api.bscscan.com/api",
+      "api_key": "387THBFJA9JMDNSI3NS35E1N3TW8YBBA7H",
+      "api_transaction": "https://api.bscscan.com/api?module=account&action=tokentx&contractaddress=<contractaddress>&address=<address>&offset=20&sort=asc&apikey=387THBFJA9JMDNSI3NS35E1N3TW8YBBA7H",
+      "api_transaction2": "https://api.bscscan.com/api?module=account&action=tokentx&address=<address>&startblock=<start>&endblock=<end>&sort=asc&apikey=387THBFJA9JMDNSI3NS35E1N3TW8YBBA7H",
+      "api_balance": "https://api.bscscan.com/api?module=account&action=tokenbalance&contractaddress=<contractaddress>&address=<address>&tag=latest&apikey=387THBFJA9JMDNSI3NS35E1N3TW8YBBA7H",
+      "abi": "https://api.bscscan.com/api?module=contract&action=getabi&address=<address>&apikey=387THBFJA9JMDNSI3NS35E1N3TW8YBBA7H"
+    }
+  ],
+  "11": [
+    {
+      "url": "https://bscscan.com/",
+      "api": "https://api.bscscan.com/api",
+      "api_key": "387THBFJA9JMDNSI3NS35E1N3TW8YBBA7H",
+      "api_transaction": "https://api.bscscan.com/api?module=account&action=tokentx&contractaddress=<contractaddress>&address=<address>&offset=20&sort=asc&apikey=387THBFJA9JMDNSI3NS35E1N3TW8YBBA7H",
+      "api_transaction2": "https://api.bscscan.com/api?module=account&action=tokentx&address=<address>&startblock=<start>&endblock=<end>&sort=asc&apikey=387THBFJA9JMDNSI3NS35E1N3TW8YBBA7H",
+      "api_balance": "https://api.bscscan.com/api?module=account&action=tokenbalance&contractaddress=<contractaddress>&address=<address>&tag=latest&apikey=387THBFJA9JMDNSI3NS35E1N3TW8YBBA7H",
+      "abi": "https://api.bscscan.com/api?module=contract&action=getabi&address=<address>&apikey=387THBFJA9JMDNSI3NS35E1N3TW8YBBA7H"
+    }
+  ],
+  "dot": [
+    {
+      "url": "https://polkascan.io/",
+      "api": "https://polkadot.api.subscan.io/api/"
+    }
+  ],
+  "30": [
+    {
+      "url": "https://explorer.solana.com/",
+      "api": "https://divine-blue-flower.solana-mainnet.quiknode.pro/fa030d91d7658e4be2fbacacc356dd488de7727e",
+      "priority": 1,
+      "ws": "wss://divine-blue-flower.solana-mainnet.quiknode.pro/fa030d91d7658e4be2fbacacc356dd488de7727e/"
+    },
+    {
+      "url": "https://explorer.solana.com/",
+      "api": "https://divine-blue-flower.solana-mainnet.quiknode.pro/fa030d91d7658e4be2fbacacc356dd488de7727e",
+      "priority": 2,
+      "ws": "wss://divine-blue-flower.solana-mainnet.quiknode.pro/fa030d91d7658e4be2fbacacc356dd488de7727e/"
+    },
+    {
+      "url": "https://explorer.solana.com/",
+      "api": "https://divine-blue-flower.solana-mainnet.quiknode.pro/fa030d91d7658e4be2fbacacc356dd488de7727e",
+      "priority": 3,
+      "ws": "wss://divine-blue-flower.solana-mainnet.quiknode.pro/fa030d91d7658e4be2fbacacc356dd488de7727e/"
+    }
+  ],
+  "31": [
+    {
+      "url": "https://explorer.solana.com/",
+      "api": "https://divine-blue-flower.solana-mainnet.quiknode.pro/fa030d91d7658e4be2fbacacc356dd488de7727e",
+      "priority": 1,
+      "ws": "wss://divine-blue-flower.solana-mainnet.quiknode.pro/fa030d91d7658e4be2fbacacc356dd488de7727e/"
+    },
+    {
+      "url": "https://explorer.solana.com/",
+      "api": "https://divine-blue-flower.solana-mainnet.quiknode.pro/fa030d91d7658e4be2fbacacc356dd488de7727e",
+      "priority": 2,
+      "ws": "wss://divine-blue-flower.solana-mainnet.quiknode.pro/fa030d91d7658e4be2fbacacc356dd488de7727e/"
+    },
+    {
+      "url": "https://explorer.solana.com/",
+      "api": "https://divine-blue-flower.solana-mainnet.quiknode.pro/fa030d91d7658e4be2fbacacc356dd488de7727e",
+      "priority": 3,
+      "ws": "wss://divine-blue-flower.solana-mainnet.quiknode.pro/fa030d91d7658e4be2fbacacc356dd488de7727e/"
+    }
+  ],
+  "sol": [
+    {
+      "url": "https://explorer.solana.com/",
+      "api": "https://divine-blue-flower.solana-mainnet.quiknode.pro/fa030d91d7658e4be2fbacacc356dd488de7727e",
+      "priority": 1,
+      "ws": "wss://divine-blue-flower.solana-mainnet.quiknode.pro/fa030d91d7658e4be2fbacacc356dd488de7727e/"
+    },
+    {
+      "url": "https://explorer.solana.com/",
+      "api": "https://divine-blue-flower.solana-mainnet.quiknode.pro/fa030d91d7658e4be2fbacacc356dd488de7727e",
+      "priority": 2,
+      "ws": "wss://divine-blue-flower.solana-mainnet.quiknode.pro/fa030d91d7658e4be2fbacacc356dd488de7727e/"
+    },
+    {
+      "url": "https://explorer.solana.com/",
+      "api": "https://divine-blue-flower.solana-mainnet.quiknode.pro/fa030d91d7658e4be2fbacacc356dd488de7727e",
+      "priority": 3,
+      "ws": "wss://divine-blue-flower.solana-mainnet.quiknode.pro/fa030d91d7658e4be2fbacacc356dd488de7727e/"
+    }
+  ],
+  "safe": [
+    {
+      "url": "https://explorer.safecoin.org/",
+      "api": "https://api.mainnet-beta.safecoin.org/",
+      "priority": 1
+    },
+    {
+      "url": "https://explorer.safecoin.org/",
+      "api": "https://api.mainnet-beta.safecoin.org/",
+      "priority": 2
+    }
+  ],
+  "61": [
+    {
+      "url": "https://explorer.safecoin.org/",
+      "api": "https://api.mainnet-beta.safecoin.org/",
+      "priority": 1
+    },
+    {
+      "url": "https://explorer.safecoin.org/",
+      "api": "https://api.mainnet-beta.safecoin.org/",
+      "priority": 2
+    }
+  ],
+  "60": [
+    {
+      "url": "https://explorer.safecoin.org/",
+      "api": "https://api.mainnet-beta.safecoin.org/",
+      "priority": 1
+    },
+    {
+      "url": "https://explorer.safecoin.org/",
+      "api": "https://api.mainnet-beta.safecoin.org/",
+      "priority": 2
+    }
+  ]
+}

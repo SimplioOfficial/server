@@ -1,0 +1,66 @@
+{
+	"tent" : {
+		"minFee" : 10000,
+		"value" : 10000
+	},
+	"xsg" : {
+		"minFee" : 10000,
+		"value" : 10000
+	},
+	"btc" : {
+		"minFee" : 15000,
+		"value" : 100000
+	},
+	"bch" : {
+		"minFee" : 5000,
+		"value" : 50000
+	},
+	"bsv" : {
+		"minFee" : 5000,
+		"value" : 50000
+	},
+	"ltc" : {
+		"minFee" : 200000,
+		"value" : 35000
+	},
+	"dash" : {
+		"minFee" : 13333,
+		"value" : 100000
+	},
+	"zec" : {
+		"minFee" : 10000,
+		"value" : 10000
+	},
+	"dgb" : {
+		"minFee" : 500,
+		"value" : 20000
+	},
+	"btcz" : {
+		"minFee" : 10000,
+		"value" : 10000
+	},
+	"bitg" : {
+		"minFee" : 10000,
+		"value" : 10000
+	},
+	"zel" : {
+		"minFee" : 10000,
+		"value" : 10000
+	},
+	"flux" : {
+		"minFee" : 10000,
+		"value" : 10000
+	},
+	"zer" : {
+		"minFee" : 10000,
+		"value" : 10000
+	},
+	"zen" : {
+		"minFee" : 10000,
+		"value" : 10000
+	},
+	"doge" : {
+		"minFee" : 200000000,
+		"value" : 500000
+	}
+}
