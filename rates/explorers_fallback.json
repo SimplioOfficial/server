@@ -230,61 +230,61 @@
   "30": [
     {
       "url": "https://explorer.solana.com/",
-      "api": "https://divine-blue-flower.solana-mainnet.quiknode.pro/fa030d91d7658e4be2fbacacc356dd488de7727e",
+      "api": "https://api.mainnet-beta.solana.com",
       "priority": 1,
-      "ws": "wss://divine-blue-flower.solana-mainnet.quiknode.pro/fa030d91d7658e4be2fbacacc356dd488de7727e/"
+      "ws": "wss://api.mainnet-beta.solana.com"
     },
     {
       "url": "https://explorer.solana.com/",
-      "api": "https://divine-blue-flower.solana-mainnet.quiknode.pro/fa030d91d7658e4be2fbacacc356dd488de7727e",
+      "api": "https://api.mainnet-beta.solana.com",
       "priority": 2,
-      "ws": "wss://divine-blue-flower.solana-mainnet.quiknode.pro/fa030d91d7658e4be2fbacacc356dd488de7727e/"
+      "ws": "wss://api.mainnet-beta.solana.com"
     },
     {
       "url": "https://explorer.solana.com/",
-      "api": "https://divine-blue-flower.solana-mainnet.quiknode.pro/fa030d91d7658e4be2fbacacc356dd488de7727e",
+      "api": "https://api.mainnet-beta.solana.com",
       "priority": 3,
-      "ws": "wss://divine-blue-flower.solana-mainnet.quiknode.pro/fa030d91d7658e4be2fbacacc356dd488de7727e/"
+      "ws": "wss://api.mainnet-beta.solana.com"
     }
   ],
   "31": [
     {
       "url": "https://explorer.solana.com/",
-      "api": "https://divine-blue-flower.solana-mainnet.quiknode.pro/fa030d91d7658e4be2fbacacc356dd488de7727e",
+      "api": "https://api.mainnet-beta.solana.com",
       "priority": 1,
-      "ws": "wss://divine-blue-flower.solana-mainnet.quiknode.pro/fa030d91d7658e4be2fbacacc356dd488de7727e/"
+      "ws": "wss://api.mainnet-beta.solana.com"
     },
     {
       "url": "https://explorer.solana.com/",
-      "api": "https://divine-blue-flower.solana-mainnet.quiknode.pro/fa030d91d7658e4be2fbacacc356dd488de7727e",
+      "api": "https://api.mainnet-beta.solana.com",
       "priority": 2,
-      "ws": "wss://divine-blue-flower.solana-mainnet.quiknode.pro/fa030d91d7658e4be2fbacacc356dd488de7727e/"
+      "ws": "wss://api.mainnet-beta.solana.com"
     },
     {
       "url": "https://explorer.solana.com/",
-      "api": "https://divine-blue-flower.solana-mainnet.quiknode.pro/fa030d91d7658e4be2fbacacc356dd488de7727e",
+      "api": "https://api.mainnet-beta.solana.com",
       "priority": 3,
-      "ws": "wss://divine-blue-flower.solana-mainnet.quiknode.pro/fa030d91d7658e4be2fbacacc356dd488de7727e/"
+      "ws": "wss://api.mainnet-beta.solana.com"
     }
   ],
   "sol": [
     {
       "url": "https://explorer.solana.com/",
-      "api": "https://divine-blue-flower.solana-mainnet.quiknode.pro/fa030d91d7658e4be2fbacacc356dd488de7727e",
+      "api": "https://api.mainnet-beta.solana.com",
       "priority": 1,
-      "ws": "wss://divine-blue-flower.solana-mainnet.quiknode.pro/fa030d91d7658e4be2fbacacc356dd488de7727e/"
+      "ws": "wss://api.mainnet-beta.solana.com"
     },
     {
       "url": "https://explorer.solana.com/",
-      "api": "https://divine-blue-flower.solana-mainnet.quiknode.pro/fa030d91d7658e4be2fbacacc356dd488de7727e",
+      "api": "https://api.mainnet-beta.solana.com",
       "priority": 2,
-      "ws": "wss://divine-blue-flower.solana-mainnet.quiknode.pro/fa030d91d7658e4be2fbacacc356dd488de7727e/"
+      "ws": "wss://api.mainnet-beta.solana.com"
     },
     {
       "url": "https://explorer.solana.com/",
-      "api": "https://divine-blue-flower.solana-mainnet.quiknode.pro/fa030d91d7658e4be2fbacacc356dd488de7727e",
+      "api": "https://api.mainnet-beta.solana.com",
       "priority": 3,
-      "ws": "wss://divine-blue-flower.solana-mainnet.quiknode.pro/fa030d91d7658e4be2fbacacc356dd488de7727e/"
+      "ws": "wss://api.mainnet-beta.solana.com"
     }
   ],
   "safe": [
